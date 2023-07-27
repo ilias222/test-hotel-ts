@@ -95,7 +95,7 @@ flat-rent-sdk - локальное хранилище отелей;
 <ul>
 <li>
 
-**Скачиваем репозиторий:** git@github.com:ilias222/test-readi.git
+**Скачиваем репозиторий:** git@github.com:ilias222/test-hotel-ts.git
 
 </li>
 <li>
