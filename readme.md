@@ -1,4 +1,4 @@
-<header class='bloch-headers'>
+<header class='bloch-headers' align="center">
 
 <img src="https://avatars.githubusercontent.com/u/102825678?v=4" alt="Что то пошло не так. Это баннер!" align="center">
 
